@@ -1,0 +1,183 @@
+.first-container{
+    display: flex;
+    justify-content: center;
+    }
+    
+    .labimage{
+        width: 50px;
+    }
+    
+    .bitLabs{
+        font-weight: bold;
+        font-size: 20px;
+        font-family: Arial;
+        margin-bottom: 0px;
+    }
+    .span{
+        color: orange;
+    }
+    
+    .second-container{
+        text-align: center;
+    }
+    
+    .para-1{
+        font-size: 25px;
+        font-style: italic;
+    }
+    
+    .card{
+        background-color: black;
+        width: 90%;
+        text-align: center;
+        margin-bottom: 0px;
+    }
+    
+    .html-pic{
+        padding-top: 40px;
+        padding-bottom: 40px;
+        width: 20%;
+    }
+    
+    .css-pic{
+        width: 15%;
+        padding-bottom: 40px;
+        padding-left:10px;
+    }
+    
+    .card-under{
+        background-color: aquamarine;
+        width: 90%;
+        margin-top: 0px;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    
+    .html-css{
+        font-weight: bold;
+        padding-top: 20px;
+        font-size: 20px;
+        margin-top: 0px;
+    }
+    
+    .topics{
+        color: grey;
+        font-size: 14px;
+    }
+    
+    .duration{
+        color: grey;
+        font-size: 14px;
+    }
+    
+    .sub-div{
+        background-color: yellowgreen;
+        width: 80%;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 1px;
+        display: flex;
+        justify-content: center;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
+    .two{
+        text-decoration: line-through;
+    }
+    
+    .free{
+        color: orangered;
+        padding-left: 10px;
+    }
+    
+    .card-container{
+        display: inline-block;
+        width: 280px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    
+    .container{
+        display: flex;
+    }
+    
+    .span-2{
+        color: orange;
+    }
+    
+    .para-2{
+        font-weight: bold;
+        font-size: 50px;
+        font-family: 'Times New Roman';
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    
+    .three-div{
+        text-align: center;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+    .button-1{
+        display: block;
+        text-align: center;
+        margin-top: 0px;
+    }
+    
+    .button{
+        background-color: red;
+        color: white;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 40px;
+        padding-right: 40px;
+        border: none;
+        font-size: large;
+        font-weight: bolder;
+        cursor: pointer;
+    }
+    
+    .four-div{
+    text-align: center;
+    }
+    
+    .price-inc{
+        font-size: 16px;
+        color: grey;
+        font-weight: 100;
+    }
+    
+    .span-3{
+        color: black;
+        font-weight: bold;
+    }
+    
+    .apply-now{
+        background-color: blueviolet;
+        display: flex;
+        cursor: pointer;
+    }
+    
+    .para-3{
+        color: white;
+        padding-left:2px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    .arrow{
+    color: white;
+    }
+    
+    
+    .card-1{
+        background-color: black;
+        width: 90%;
+        height: 135px;;
+        text-align: center;
+        margin-bottom: 0px;
+    }
